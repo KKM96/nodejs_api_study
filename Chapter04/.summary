@@ -1,0 +1,6 @@
+{"response":
+    {"body":
+        {"totalCount":23,"items":
+            [{"pm25Grade1h":"2","pm10Value24":"38","so2Value":"0.002","pm10Grade1h":"1","o3Grade":"2","pm10Value":"30","pm25Flag":null,"khaiGrade":"2","pm25Value":"27","no2Flag":null,"mangName":"도시대기","no2Value":"0.013","so2Grade":"1","coFlag":null,"khaiValue":"89","coValue":"0.3","pm10Flag":null,"no2Grade":"1","pm25Value24":"26","o3Flag":null,"pm25Grade":"2","so2Flag":null,"coGrade":"1","dataTime":"2022-07-06 18:00","pm10Grade":"2","o3Value":"0.077"}],
+            "pageNo":1,"numOfRows":1},
+    "header":{"resultMsg":"NORMAL_CODE","resultCode":"00"}}}
